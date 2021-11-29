@@ -1,0 +1,10 @@
+ProyectoCovidColombia/
+VsCode/
+node_modules/
+.DS_store
+WorkSpace.code-WorkSpace
+*.txt
+*.xlsx
+*.csv
+.env
+.sass-cache
